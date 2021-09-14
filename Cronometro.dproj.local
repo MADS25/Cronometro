@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/05/11 20:19:10.000.944,=C:\Users\santo\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/05/13 13:02:54.403,=C:\Users\santo\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/05/13 13:13:40.636,C:\Users\santo\Documents\Embarcadero\Studio\Projects\Cronometro\U_Cronometro.dfm=C:\Users\santo\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2020/05/13 13:13:40.636,C:\Users\santo\Documents\Embarcadero\Studio\Projects\Cronometro\U_Cronometro.pas=C:\Users\santo\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/05/13 13:13:50.318,C:\Users\santo\Documents\Embarcadero\Studio\Projects\Cronometro\Cronometro.dproj=C:\Users\santo\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
